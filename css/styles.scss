@@ -66,9 +66,34 @@ body{
     }
 }
 
-#carouselButton {
+#carouselButtons {
     right:0px;
     position: absolute;
     bottom: 0px;
     z-index: 1;
+}
+#loginmodal{
+  .modal-header{
+    background-color: $background-dark;
+    color:floralwhite;
+
+  }
+  .modal-body{
+    background: $background-pale ;
+  }
+  .close{
+    color:floralwhite;
+  }
+}
+#bookmodal{
+  .modal-header{
+    background-color: $background-dark;
+    color:floralwhite;
+  }
+  .modal-body{
+    background: $background-pale ;
+  }
+  .close{
+    color:floralwhite;
+  }
 }

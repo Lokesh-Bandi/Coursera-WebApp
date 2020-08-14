@@ -52,3 +52,23 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#loginmodal .modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+
+#loginmodal .modal-body {
+  background: #D1C4E9; }
+
+#loginmodal .close {
+  color: floralwhite; }
+
+#bookmodal .modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+
+#bookmodal .modal-body {
+  background: #D1C4E9; }
+
+#bookmodal .close {
+  color: floralwhite; }
